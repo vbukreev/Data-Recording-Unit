@@ -1,7 +1,5 @@
 //TransducerMain.cpp - Main function for the transducer
 //
-// History:
-// 03-May-22  M. Watler         Created.
 
 #include "Transducer.h"
 

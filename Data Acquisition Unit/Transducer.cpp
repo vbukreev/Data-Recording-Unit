@@ -1,8 +1,5 @@
 //Transducer.cpp - Converts seismic activity into a data stream which is written
-//                 into shared memory
-//
-// History:
-// 03-May-22  M. Watler         Created.
+//into shared memory
 
 #include "Transducer.h"
 

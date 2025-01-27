@@ -1,7 +1,6 @@
 //DataCenterRogue1Main.cpp - Main function for the rogue1 Data Center
 //
-// History:
-// 05-May-22  M. Watler         Created.
+
 
 #include "DataCenterRogue1.h"
 

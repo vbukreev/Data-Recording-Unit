@@ -1,7 +1,6 @@
 //Transducer.h - Class declaration for the transducer
-//
-// History:
-// 03-May-22  M. Watler         Created.
+
+
 
 #ifndef _TRANSDUCER_H_
 #define _TRANSDUCER_H_

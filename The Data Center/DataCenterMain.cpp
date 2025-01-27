@@ -1,7 +1,7 @@
 //DataCenterMain.cpp - Main function for the Data Center
 //
 // History:
-// 05-May-22  M. Watler         Created.
+
 
 #include "DataCenter.h"
 

@@ -1,7 +1,4 @@
 //DataCenterRogue2Main.cpp - Main function for the rogue2 Data Center
-//
-// History:
-// 05-May-22  M. Watler         Created.
 
 #include "DataCenterRogue2.h"
 

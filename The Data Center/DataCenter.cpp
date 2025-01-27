@@ -1,7 +1,6 @@
 //DataCenter.cpp - Function definitions for the Data Center
 //
-// History:
-// 05-May-22  M. Watler         Created.
+
 
 #include <arpa/inet.h>
 #include <iostream>

@@ -1,7 +1,5 @@
 //DataCenterRogue2.cpp - Function definitions for the rogue2 Data Center
-//
-// History:
-// 05-May-22  M. Watler         Created.
+
 
 #include <arpa/inet.h>
 #include <iostream>

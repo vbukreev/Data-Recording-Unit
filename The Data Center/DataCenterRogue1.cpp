@@ -1,8 +1,7 @@
 //DataCenterRogue1.cpp - Function definitions for the rogue Data Center
-//                       This data center will attempt to guess the password
-//
-// History:
-// 05-May-22  M. Watler         Created.
+//This data center will attempt to guess the password
+
+
 
 #include <arpa/inet.h>
 #include <iostream>

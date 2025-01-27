@@ -1,7 +1,5 @@
 //SeismicData.h - header file for seismic data
-//
-// History:
-// 03-May-22  M. Watler         Created.
+
 
 #ifndef SEISMICDATA_H_
 #define SEISMICDATA_H_

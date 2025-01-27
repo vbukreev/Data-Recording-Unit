@@ -1,7 +1,5 @@
 //DataCenterRogue1.h - The class for the rogue1 Data Center
 //
-// History:
-// 05-May-22  M. Watler         Created.
 
 #ifndef _DATACENTERROGUE1_H_
 #define _DATACENTERROGUE1_H_

@@ -1,7 +1,4 @@
 //DataCenter.h - The class for the Data Center
-//
-// History:
-// 05-May-22  M. Watler         Created.
 
 #ifndef _DATACENTER_H_
 #define _DATACENTER_H_
